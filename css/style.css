@@ -301,5 +301,7 @@ footer {
     text-align: left;
     padding: 1rem 2rem;
     height: auto; }
+    #contact div {
+      margin-bottom: .5rem; }
   footer {
     font-size: .65rem; } }
